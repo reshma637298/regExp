@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "regExp"
+  "defaultProject": "regExp",
+  "cli": {
+    "analytics": "c682ac65-c40b-4e70-9c83-8eea10376e17"
+  }
 }
